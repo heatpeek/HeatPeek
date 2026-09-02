@@ -1,0 +1,1774 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ""
+          }
+        }
+      }
+    },
+    "ANALYSIS": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ANALYSE"
+          }
+        }
+      }
+    },
+    "Ambient": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Umgebung"
+          }
+        }
+      }
+    },
+    "Analysis": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Analyse"
+          }
+        }
+      }
+    },
+    "Anodised aluminium": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eloxiertes Aluminium"
+          }
+        }
+      }
+    },
+    "Applies to saved photos and recorded video.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gilt für gespeicherte Fotos und aufgezeichnete Videos."
+          }
+        }
+      }
+    },
+    "Applies to the window and the OBS source. Photos and video follow the capture setting under Output.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gilt für das Fenster und die OBS-Quelle. Fotos und Videos folgen der Aufnahme-Einstellung unter „Ausgabe“."
+          }
+        }
+      }
+    },
+    "Area %lld": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fläche %lld"
+          }
+        }
+      }
+    },
+    "At the cursor": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Am Zeiger"
+          }
+        }
+      }
+    },
+    "At this emissivity the correction multiplies any error in the reading about %@×. Below %@ apparent it has no solution at all, and those pixels are held at the end of the measuring range.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bei diesem Emissionsgrad verstärkt die Korrektur jeden Messfehler etwa um das %1$@-fache. Unterhalb von %2$@ scheinbarer Temperatur hat sie gar keine Lösung mehr; solche Pixel werden am Rand des Messbereichs festgehalten."
+          }
+        }
+      }
+    },
+    "Auto cam": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kamera"
+          }
+        }
+      }
+    },
+    "Auto per frame": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto je Bild"
+          }
+        }
+      }
+    },
+    "Average": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Durchschnitt"
+          }
+        }
+      }
+    },
+    "Bulk endpoint 0x81 not found.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bulk-Endpoint 0x81 nicht gefunden."
+          }
+        }
+      }
+    },
+    "Burned-in overlay": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildinformationen"
+          }
+        }
+      }
+    },
+    "CSV number format": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CSV-Zahlenformat"
+          }
+        }
+      }
+    },
+    "Calibrate shutter": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shutter kalibrieren"
+          }
+        }
+      }
+    },
+    "Camera": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kamera"
+          }
+        }
+      }
+    },
+    "Camera automatic": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kamera-Automatik"
+          }
+        }
+      }
+    },
+    "Camera picture, carrying whichever image information is switched on.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kamerabild mit den Bildinformationen, die eingeschaltet sind."
+          }
+        }
+      }
+    },
+    "Camera switched off": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kamera ausgeschaltet"
+          }
+        }
+      }
+    },
+    "Captures": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aufnahmen"
+          }
+        }
+      }
+    },
+    "Celsius (°C)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Celsius (°C)"
+          }
+        }
+      }
+    },
+    "Click the image for a point, drag for an area. Drag a point or an area to move it.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klick ins Bild setzt einen Punkt, Ziehen erzeugt eine Fläche. Punkte und Flächen lassen sich mit der Maus verschieben."
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schließen"
+          }
+        }
+      }
+    },
+    "Connect": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbinden"
+          }
+        }
+      }
+    },
+    "Connect a supported camera via USB-C and the app will connect on its own.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schließe eine unterstützte Kamera per USB-C an – die App verbindet sich von selbst."
+          }
+        }
+      }
+    },
+    "Connecting to the camera…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbinde mit der Kamera …"
+          }
+        }
+      }
+    },
+    "Connecting…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbinde …"
+          }
+        }
+      }
+    },
+    "Could not open the file": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datei ließ sich nicht öffnen"
+          }
+        }
+      }
+    },
+    "Could not set up the video encoder.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Video-Encoder konnte nicht eingerichtet werden."
+          }
+        }
+      }
+    },
+    "Could not start streaming: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Streaming-Start fehlgeschlagen: %@"
+          }
+        }
+      }
+    },
+    "Crosshair": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fadenkreuz"
+          }
+        }
+      }
+    },
+    "Cursor": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeiger"
+          }
+        }
+      }
+    },
+    "Cursor reading": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeigerwert"
+          }
+        }
+      }
+    },
+    "Custom": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manuell"
+          }
+        }
+      }
+    },
+    "DISTRIBUTION": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VERTEILUNG"
+          }
+        }
+      }
+    },
+    "Date & time": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datum & Uhrzeit"
+          }
+        }
+      }
+    },
+    "Emissivity": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Emissionsgrad"
+          }
+        }
+      }
+    },
+    "English (12.34)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Englisch (12.34)"
+          }
+        }
+      }
+    },
+    "Fahrenheit (°F)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fahrenheit (°F)"
+          }
+        }
+      }
+    },
+    "Finish the recording": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aufzeichnung beenden"
+          }
+        }
+      }
+    },
+    "Finish the video": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Videoaufnahme beenden"
+          }
+        }
+      }
+    },
+    "Fixed": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fest"
+          }
+        }
+      }
+    },
+    "Fixed range": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fester Bereich"
+          }
+        }
+      }
+    },
+    "For browsers and tools without Syphon.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Für Browser und Programme ohne Syphon."
+          }
+        }
+      }
+    },
+    "Freeze image": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bild einfrieren"
+          }
+        }
+      }
+    },
+    "From": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Von"
+          }
+        }
+      }
+    },
+    "Geometry & unit": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geometrie & Einheit"
+          }
+        }
+      }
+    },
+    "German (12,34)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deutsch (12,34)"
+          }
+        }
+      }
+    },
+    "Hide this curve": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Kurve ausblenden"
+          }
+        }
+      }
+    },
+    "History": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verlauf"
+          }
+        }
+      }
+    },
+    "Human skin": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Menschliche Haut"
+          }
+        }
+      }
+    },
+    "Image": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bild"
+          }
+        }
+      }
+    },
+    "Interface closed": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Interface geschlossen"
+          }
+        }
+      }
+    },
+    "Limits": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grenzwerte"
+          }
+        }
+      }
+    },
+    "Live": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Live"
+          }
+        }
+      }
+    },
+    "Local contrast": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lokaler Kontrast"
+          }
+        }
+      }
+    },
+    "MEASUREMENTS": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MESSWERTE"
+          }
+        }
+      }
+    },
+    "MJPEG fallback": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MJPEG-Alternative"
+          }
+        }
+      }
+    },
+    "MODEL": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MODELL"
+          }
+        }
+      }
+    },
+    "Matte paint / plastic": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Matter Lack / Kunststoff"
+          }
+        }
+      }
+    },
+    "Max": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Max"
+          }
+        }
+      }
+    },
+    "Measure": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Messen"
+          }
+        }
+      }
+    },
+    "Measurement spots": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Messpunkte"
+          }
+        }
+      }
+    },
+    "Measurements": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Messwerte"
+          }
+        }
+      }
+    },
+    "Measurements window": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Messwertfenster"
+          }
+        }
+      }
+    },
+    "Min": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Min"
+          }
+        }
+      }
+    },
+    "Min/max markers": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Min-/Max-Marker"
+          }
+        }
+      }
+    },
+    "Mirror horizontally": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Horizontal spiegeln"
+          }
+        }
+      }
+    },
+    "No P3/P1 thermal camera found. Is the camera connected via USB?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine P3/P1-Wärmebildkamera gefunden. Ist die Kamera per USB angeschlossen?"
+          }
+        }
+      }
+    },
+    "No camera found": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Kamera gefunden"
+          }
+        }
+      }
+    },
+    "No connection": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Verbindung"
+          }
+        }
+      }
+    },
+    "No correction": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Korrektur"
+          }
+        }
+      }
+    },
+    "No image": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kein Bild"
+          }
+        }
+      }
+    },
+    "Not connected": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nicht verbunden"
+          }
+        }
+      }
+    },
+    "Nothing open": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nichts geöffnet"
+          }
+        }
+      }
+    },
+    "Open a recording or a saved snapshot": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eine Aufzeichnung oder eine gesicherte Momentaufnahme öffnen"
+          }
+        }
+      }
+    },
+    "Open a recording to see every column as a curve, or a saved snapshot to see its picture and how its temperatures are distributed.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öffne eine Aufzeichnung, um jede Spalte als Kurve zu sehen, oder eine gesicherte Momentaufnahme für ihr Bild und die Verteilung ihrer Temperaturen."
+          }
+        }
+      }
+    },
+    "Open file…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datei öffnen …"
+          }
+        }
+      }
+    },
+    "Open for analysis…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zur Analyse öffnen …"
+          }
+        }
+      }
+    },
+    "Open measurements in a separate window": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Messwerte in eigenem Fenster öffnen"
+          }
+        }
+      }
+    },
+    "Open the stream in the browser": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Den Stream im Browser öffnen"
+          }
+        }
+      }
+    },
+    "Open…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öffnen …"
+          }
+        }
+      }
+    },
+    "Orientation is locked while a video is recording — the file has one fixed geometry.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Ausrichtung ist während einer Videoaufnahme gesperrt – die Datei hat eine feste Geometrie."
+          }
+        }
+      }
+    },
+    "Output": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ausgabe"
+          }
+        }
+      }
+    },
+    "Oxidised copper": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oxidiertes Kupfer"
+          }
+        }
+      }
+    },
+    "PCB, green solder mask": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Platine, grüner Lötstopplack"
+          }
+        }
+      }
+    },
+    "Palette": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Palette"
+          }
+        }
+      }
+    },
+    "Per frame": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro Bild"
+          }
+        }
+      }
+    },
+    "Photos and video are saved as the plain picture": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fotos und Videos werden ohne Bildinformationen gesichert"
+          }
+        }
+      }
+    },
+    "Photos and video are saved with the on-image information": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fotos und Videos werden mit den Bildinformationen gesichert"
+          }
+        }
+      }
+    },
+    "Picture is too small to record.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das Bild ist zu klein für eine Aufnahme."
+          }
+        }
+      }
+    },
+    "Plain picture": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nur Bild"
+          }
+        }
+      }
+    },
+    "Polished copper": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Poliertes Kupfer"
+          }
+        }
+      }
+    },
+    "RESOLUTION": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AUFLÖSUNG"
+          }
+        }
+      }
+    },
+    "Readings and curve on a transparent background.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Messwerte und Kurve auf transparentem Grund."
+          }
+        }
+      }
+    },
+    "Readings block": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Werteblock"
+          }
+        }
+      }
+    },
+    "Reads a recording back as curves, or a saved snapshot as its picture.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Liest eine Aufzeichnung als Kurven ein oder eine gesicherte Momentaufnahme als Bild."
+          }
+        }
+      }
+    },
+    "Record readings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Messwerte aufzeichnen"
+          }
+        }
+      }
+    },
+    "Record temperature over time": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temperaturverlauf aufzeichnen"
+          }
+        }
+      }
+    },
+    "Record temperature over time as CSV": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temperaturverlauf über die Zeit als CSV aufzeichnen"
+          }
+        }
+      }
+    },
+    "Record the picture as a video": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bild als Video aufzeichnen"
+          }
+        }
+      }
+    },
+    "Record the picture as an MP4 video": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das Bild als MP4-Video aufzeichnen"
+          }
+        }
+      }
+    },
+    "Record video": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Video aufnehmen"
+          }
+        }
+      }
+    },
+    "Recording failed: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aufnahme fehlgeschlagen: %@"
+          }
+        }
+      }
+    },
+    "Recording history…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verlauf wird aufgezeichnet …"
+          }
+        }
+      }
+    },
+    "Remove": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entfernen"
+          }
+        }
+      }
+    },
+    "Reset history": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verlauf zurücksetzen"
+          }
+        }
+      }
+    },
+    "Resume live image": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Live-Bild fortsetzen"
+          }
+        }
+      }
+    },
+    "Rotate 90° clockwise": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "90° im Uhrzeigersinn drehen"
+          }
+        }
+      }
+    },
+    "Rough aluminium": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raues Aluminium"
+          }
+        }
+      }
+    },
+    "Rusted iron": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rostiges Eisen"
+          }
+        }
+      }
+    },
+    "Save image as PNG and temperature matrix as CSV": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bild als PNG und Temperaturmatrix als CSV sichern"
+          }
+        }
+      }
+    },
+    "Save snapshot": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schnappschuss sichern"
+          }
+        }
+      }
+    },
+    "Scale bar": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skalenbalken"
+          }
+        }
+      }
+    },
+    "Shiny surfaces radiate less and read too cold. 1.00 means no correction.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Glänzende Oberflächen strahlen weniger ab und werden zu kalt gemessen. 1,00 heißt keine Korrektur."
+          }
+        }
+      }
+    },
+    "Shortcuts": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tastaturkürzel"
+          }
+        }
+      }
+    },
+    "Show or hide settings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einstellungen ein-/ausblenden"
+          }
+        }
+      }
+    },
+    "Show this curve": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Kurve einblenden"
+          }
+        }
+      }
+    },
+    "Snapshot: image as PNG and temperature matrix as CSV": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Momentaufnahme: Bild als PNG und Temperaturmatrix als CSV"
+          }
+        }
+      }
+    },
+    "Spot %lld": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Punkt %lld"
+          }
+        }
+      }
+    },
+    "Spots & areas": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Punkte & Flächen"
+          }
+        }
+      }
+    },
+    "Stats panel opacity": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deckkraft Messwerte"
+          }
+        }
+      }
+    },
+    "Switch camera off — stops the stream and the shutter clicking": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kamera ausschalten – stoppt den Stream und das Shutter-Klacken"
+          }
+        }
+      }
+    },
+    "Switch camera on": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kamera einschalten"
+          }
+        }
+      }
+    },
+    "Syphon sources": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Syphon-Quellen"
+          }
+        }
+      }
+    },
+    "Take from current image": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aus aktuellem Bild übernehmen"
+          }
+        }
+      }
+    },
+    "Temperature range": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temperaturbereich"
+          }
+        }
+      }
+    },
+    "The camera runs its shutter calibration first; that click is normal and takes about three seconds.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Kamera kalibriert zuerst ihren Shutter – das Klacken ist normal und dauert etwa drei Sekunden."
+          }
+        }
+      }
+    },
+    "The file could not be read.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Datei ließ sich nicht lesen."
+          }
+        }
+      }
+    },
+    "The port is already taken — another copy of the app is probably still running.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Port ist belegt – vermutlich läuft noch eine zweite Instanz der App."
+          }
+        }
+      }
+    },
+    "The stream is stopped and the USB device has been reset, so the camera no longer clicks.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Stream ist gestoppt und das USB-Gerät zurückgesetzt – die Kamera klackert nicht mehr."
+          }
+        }
+      }
+    },
+    "This is not a HeatPeek recording. Snapshot CSVs hold a single frame and have no time axis.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das ist keine HeatPeek-Aufzeichnung. Momentaufnahme-CSVs enthalten ein einzelnes Bild und haben keine Zeitachse."
+          }
+        }
+      }
+    },
+    "Timestamp": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeitstempel"
+          }
+        }
+      }
+    },
+    "To": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bis"
+          }
+        }
+      }
+    },
+    "Toggle settings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einstellungen ein-/ausblenden"
+          }
+        }
+      }
+    },
+    "Trend curve": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verlaufskurve"
+          }
+        }
+      }
+    },
+    "Try again": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erneut versuchen"
+          }
+        }
+      }
+    },
+    "USB control transfer failed: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "USB-Control-Transfer fehlgeschlagen: %@"
+          }
+        }
+      }
+    },
+    "USB interface %lld not found.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "USB-Interface %lld nicht gefunden."
+          }
+        }
+      }
+    },
+    "Unexpected camera status: expected %@, got %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unerwarteter Kamerastatus: %1$@ erwartet, %2$@ erhalten"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unexpected camera status: expected %1$@, got %2$@"
+          }
+        }
+      }
+    },
+    "Used for the timestamp drawn into the picture.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gilt für den Zeitstempel, der ins Bild gezeichnet wird."
+          }
+        }
+      }
+    },
+    "Video recording failed: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Videoaufnahme fehlgeschlagen: %@"
+          }
+        }
+      }
+    },
+    "Waiting for the first image…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Warte auf das erste Bild …"
+          }
+        }
+      }
+    },
+    "Whole picture": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ganzes Bild"
+          }
+        }
+      }
+    },
+    "Whole recording": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gesamte Aufzeichnung"
+          }
+        }
+      }
+    },
+    "With overlay": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mit Overlay"
+          }
+        }
+      }
+    },
+    "Written in %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geschrieben in %@"
+          }
+        }
+      }
+    },
+    "above": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "über"
+          }
+        }
+      }
+    },
+    "below": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "unter"
+          }
+        }
+      }
+    },
+    "bulk read: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bulk-Read: %@"
+          }
+        }
+      }
+    },
+    "csv.avg": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Durchschnitt"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Average"
+          }
+        }
+      }
+    },
+    "csv.center": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fadenkreuz"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Crosshair"
+          }
+        }
+      }
+    },
+    "csv.max": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Max"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Max"
+          }
+        }
+      }
+    },
+    "csv.min": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Min"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Min"
+          }
+        }
+      }
+    },
+    "csv.region": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fläche"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Area"
+          }
+        }
+      }
+    },
+    "csv.seconds": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sekunden"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seconds"
+          }
+        }
+      }
+    },
+    "csv.spot": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Punkt"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spot"
+          }
+        }
+      }
+    },
+    "csv.time": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeit"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Time"
+          }
+        }
+      }
+    },
+    "file.recording": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "heatpeek-verlauf"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "heatpeek-history"
+          }
+        }
+      }
+    },
+    "file.snapshot": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "heatpeek"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "heatpeek"
+          }
+        }
+      }
+    },
+    "file.video": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "heatpeek"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "heatpeek"
+          }
+        }
+      }
+    },
+    "now": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jetzt"
+          }
+        }
+      }
+    },
+    "off": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "aus"
+          }
+        }
+      }
+    },
+    "stats.waiting": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verlauf wird aufgezeichnet …"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recording history…"
+          }
+        }
+      }
+    },
+    "status.values": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Werte"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "values"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.1"
+}

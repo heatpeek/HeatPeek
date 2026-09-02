@@ -1,0 +1,14 @@
+# Xcode project — generated from project.yml by XcodeGen
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+build/
+dist/
+
+# macOS
+.DS_Store
+
+# Local editor state
+.vscode/
+.idea/

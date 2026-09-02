@@ -1,0 +1,68 @@
+name: HeatPeek
+options:
+  bundleIdPrefix: com.heatpeek
+  deploymentTarget:
+    macOS: "14.0"
+  createIntermediateGroups: true
+  developmentLanguage: en
+settings:
+  base:
+    # Xcode's "recommended settings" — kept here rather than accepted in the
+    # Xcode dialog, because the project is generated from this file.
+    DEAD_CODE_STRIPPING: YES
+    ENABLE_USER_SCRIPT_SANDBOXING: YES
+    STRING_CATALOG_GENERATE_SYMBOLS: YES
+    CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED: YES
+targets:
+  HeatPeek:
+    type: application
+    platform: macOS
+    sources:
+      - path: Sources
+        excludes:
+          - "Resources/Fonts"
+      - path: Sources/Resources/Fonts
+        type: folder
+        buildPhase: resources
+    dependencies:
+      - sdk: IOUSBHost.framework
+      - sdk: Metal.framework
+      - framework: Frameworks/Syphon.framework
+        embed: true
+        codeSign: true
+    info:
+      path: Sources/Info.plist
+      properties:
+        CFBundleDisplayName: HeatPeek
+        CFBundleName: HeatPeek
+        NSHumanReadableCopyright: "© 2026 Michael Nett · MIT licensed"
+        LSApplicationCategoryType: public.app-category.utilities
+        CFBundleLocalizations: [en, de]
+        ATSApplicationFontsPath: Fonts
+        CFBundleDevelopmentRegion: en
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        NSSupportsAutomaticTermination: false
+        NSSupportsSuddenTermination: false
+    settings:
+      base:
+        PRODUCT_NAME: HeatPeek
+        MARKETING_VERSION: "1.0"
+        CURRENT_PROJECT_VERSION: "1"
+        # Built for both architectures so the DMG runs on Intel Macs too.
+        ARCHS: "$(ARCHS_STANDARD)"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        SWIFT_VERSION: "5.9"
+        MACOSX_DEPLOYMENT_TARGET: "14.0"
+        ENABLE_HARDENED_RUNTIME: NO
+        ENABLE_APP_SANDBOX: NO
+        CODE_SIGN_IDENTITY: "-"
+        CODE_SIGN_STYLE: Automatic
+        GENERATE_INFOPLIST_FILE: NO
+        COMBINE_HIDPI_IMAGES: YES
+        DEAD_CODE_STRIPPING: YES
+        # Localization: English is the source language, German is translated
+        # in Resources/Localizable.xcstrings.
+        STRING_CATALOG_GENERATE_SYMBOLS: YES
+        SWIFT_EMIT_LOC_STRINGS: YES
+        LOCALIZATION_PREFERS_STRING_CATALOGS: YES
